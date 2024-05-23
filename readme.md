@@ -1,11 +1,15 @@
 Contributions:
-Ashwini Kumar singh(Lead) : Home Page And Jwt(JSON web Token)
-Pratush shyam Gupt : Login,Signup
-Akshay Kumar : Booking Services
-Atul Gond : Contact us,About Us And Navbar
-Shrishti Dubey : Exploring City Services
+Ashwini Kumar singh(Lead) : Home Page And Jwt(JSON web Token) , 
+Pratush shyam Gupt : Login,Signup , 
+Akshay Kumar : Booking Services ,
+Atul Gond : Contact us,About Us And Navbar , 
+Shrishti Dubey : Exploring City Services , 
+
+Technologies Used:
+Html , Css , React , Tailwind , Spring Boot
 
 Details of the Project:
+
 
 Town Treasure: Your Ultimate Town Travel Companion
 Welcome to Town Treasure, the ultimate application designed to make town traveling a delightful and hassle-free experience. Whether you are a local resident or a visitor, Town Treasure offers a comprehensive suite of features to help you explore, book, and enjoy your time in town to the fullest.
