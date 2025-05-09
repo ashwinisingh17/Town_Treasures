@@ -1,9 +1,3 @@
-Website Demo Video : <video width="640" height="360" controls>
-  <source src="https://drive.google.com/drive/folders/183C66jIPwqTUovEsaJtDp4j8wtIVCR31">
-  Your browser does not support the video tag.
-</video>
-
-
 Contributions:
 Ashwini Kumar singh(Lead) : Home Page And Jwt(JSON web Token) , 
 Pratush shyam Gupt : Login,Signup , 
